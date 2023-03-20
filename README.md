@@ -62,7 +62,7 @@ Tips:
  # Prints
  
  ## Index.html
- 
+ ![alt text](http://url/to/img.png)
     
 
     
