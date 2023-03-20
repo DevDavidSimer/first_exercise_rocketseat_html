@@ -63,7 +63,7 @@ Tips:
  # Prints
  
  ## Index.html
- ![alt text](https://github.com/DevDavidSimer/first_exercise_rocketseat_html/blob/93e5f680bbc9729231bb61ebc74f65ba830b698e/First%20Exercise%20Rocketseat%20School/Prints/print_index_html.png)
+ ![alt text](https://github.com/DevDavidSimer/first_exercise_rocketseat_html/blob/83843e9597b12df70fb764d14fce487b7fca3491/First%20Exercise%20Rocketseat%20School/prints/index-html.png)
     
  ## Images.html
  ![alt text](https://github.com/DevDavidSimer/first_exercise_rocketseat_html/blob/8e16942456f05aba490bcc6ad883980333426177/First%20Exercise%20Rocketseat%20School/Prints/print_images_html.png)
