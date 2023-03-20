@@ -30,8 +30,9 @@ Inside each .html file, you must put:
 Navigation
 
     For the navigation menu use the <nav></nav> tag and put the unordered list as tag content.
-    The content of the link must be the name of the .html page that exists in the project, and for each page we will have a link.
-    When we click on the link, we should be directed to the page clicked on.
+    The content of the link must be the name of the .html page that exists in the project, and 
+    for each page we will have a link. When we click on the link, we should be directed to the 
+    page clicked on.
     
 Pages images.html
 
